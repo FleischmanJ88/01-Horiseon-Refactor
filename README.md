@@ -33,12 +33,12 @@ For Module 1, we were given the task of Refactoring pre-written HTML for Horiseo
 
 ### <strong>Website Link</strong>
 
-TBD
+https://fleischmanj88.github.io/01-Horiseon-Refactor/
 
 ### <strong>Screenshot</strong>
 
-TBD
+https://github.com/FleischmanJ88/01-Horiseon-Refactor/issues/1#issuecomment-1229132516
 
 ### <strong>Contact Information</strong>
 
-TBD
+https://github.com/FleischmanJ88
